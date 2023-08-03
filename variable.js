@@ -1,0 +1,12 @@
+var number = 7;
+var year = 2023;
+var name = 'arafat';
+var universityName = 'Bangladesh University Of Business and Technology';
+var price = 40;
+var isSingle = true;
+console.log(number);
+console.log(year);
+console.log(name);
+console.log(universityName);
+console.log(price);
+console.log(isSingle);
